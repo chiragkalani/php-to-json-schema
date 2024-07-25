@@ -1,5 +1,5 @@
 {
-    "name": "chiragkalani/php-to-json-schema",
+    "name": "chiragkalani/phptojsonschema",
     "description": "A very simple and small library to convert a php class to json schema",
     "type": "library",
     "license": "MIT",
