@@ -1,0 +1,18 @@
+{
+    "name": "ckphp/php-to-json-schema",
+    "description": "A very simple and small library to convert a php class to json schema",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpToJsonSchema\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chirag Kalani",
+            "email": "chiragkalani@gmail.com"
+        }
+    ],
+    "require": {}
+}
